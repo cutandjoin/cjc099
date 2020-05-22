@@ -1,5 +1,5 @@
 REM DIRINDEX 1\2\4,1\2\5,1\3\6,1\3\7
-REM DIRNAME cjc099,folder01,folder02,folder03,folder04,folder05,folder06
+REM DIRNAME folder01,folder02,folder03,folder04,folder05,folder06,folder07
 TITLE ""
 FILE "bunpo2_03.mp3" MP3
   TRACK 01 AUDIO
